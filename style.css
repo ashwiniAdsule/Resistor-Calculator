@@ -1,0 +1,26 @@
+body,
+html {
+    height: 100vh;
+    width: 100%;
+}
+
+.resistor {
+    height: 50vh;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.calc {
+    height: 40vh;
+    width: 60%;
+    background-color: rgba(129, 129, 129, 0.342);
+    border-radius: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.ss {
+    margin-left: 2.5vw;
+    margin-right: 2.5vw;
+}
